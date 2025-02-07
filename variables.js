@@ -36,5 +36,5 @@
 // const mystr = "Gurdeep Singh";
 // console.log(mystr.includes("deeps"));
 
-const randomNumber = Math.random() * 100;
-console.log(randomNumber);
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Numbers in Javascript
